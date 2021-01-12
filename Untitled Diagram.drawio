@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T07:52:01.281Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="qm4O7GtdAd80T1fx-3un" version="14.1.9" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7Vpvd5o6HP40vtw9BITqy+pstzN31lN7T19HyCS3SFgIU/bpl0BS1KiEtSC33TlayY8Q5Xme37+UgTNdb28pTMKvJEDRwLaC7cD5OLBtYNsO/xCWXFkcUFpWFAfSVhkW+BeSRktaMxygdG8iIyRiONk3+iSOkc/2bJBSstmf9p1E+9+awBXSDAsfRrr1EQcsLK0j16rsnxBeheqbgSXPrKGaLA1pCAOy2TE5s4EzpYSw8mi9naJIoKdwKa+7OXH2+YdRFDOTC5w4m9xs6djP51YSf3t8sOHtB7nKTxhl8obvZvdfuOXfO/7n8fPDJ/5xzd/z64eHmbwRlit0+D0l4pDBpTBN/BBHwRzmJGPKqkYTzsUcxwWXlphKomwd71pSBimTChgKQ8jWET8G/HATYoYWCfTFyQ3XWrlCBJMUF19drECRn9EU/0T3KC3XEVa0TWAcyMF3ErOFvIEjECo8EGVou2OSkN4iskaM5nyKOqv4lgK/ksNNJRZP2cIdoTjqOigFunpeuuKQH0gaG1Bqa5RqtKGAa1wOCWUhWZEYRrPKysnK4gAp0Ko5c0ISScl/iLFc0gUzRvYJ06E9p7+UZNRHZ+ZdSdeHdIXOricnijs8Sx9FEWRcKfsB47W5cDQuplnK+OJUd6UNXkcwFuCHhOJfXKcwkvgnBMes+G3uhL+4cqbWP+7A5ddN+RhUY/4S0ymbkjhlFOICfQRTtkEp68rJmpFv4GzSuYaGzgVGbTnXUCP0BhUpj2HK3eUMqTJBwQrIPlHhGFOxPUkFcDqlwu1xWBsahjXPMKz1K6p5mhMshJQ1Piq0T0l6B1lIfYm620C3yh+NdWvvp2tPl/H4iIqHbYn4So8nmPuubS0hxTxAnMHUqse0IxCBfWEURxqKX+ETEo5FYZxCn2ESv6PYDI4UoU63eXKsMXKPfmSiBLEtHqIY6kTYo6bI9U3YqgvewXGS5f3GELh9A1FvcmXRliD6lL+jwOBevmoDve5GTdtRIKGv70dlbu1J5Qb0hvQjxfFTpxEFNN5k6VnRBvQucBbrzV8H5e+Lobx8cHb1DHei9P27Q1K/Q2If4fPoFkl7AV7vDv88w14aftcY/4bbIu3Br3eUtxQhUXf7p7YeWwnyXlPoDiLTxQOT3lS+Ix0bt5DtCVlvITX8e1Q5SrXUVo5K1rWVo7rdnlSOtt6JXvs+Snhg8SKRNpc8rngrcZTAfC3Q6iTMvLg9vXScsfXu9JFiUYpbAWIQR6mOsNjN4uE80QOS/H9sQPys4KAW52VJynzZOvCHlacZ7l5ruNsa7nLT8HgnpKBNKPFRmhogC/2nVaH5bxmLsMgSLQPs9UzZerP5jjKo8V5LaxnU1tvUPmdQwwQKTB8FGL92/iwuvaYU5jsTZONZrXwnDDvp5tApvYOndGrmq524SgjlL6hk8XwrL1CK3oS/AaWMTSst0K9Ky6CB/v+R8fzwXu2OqdULv3WsZn57OL8bv9Wb/TcgFWDcIr26VF7muKM3AL5SUL2fOr3wU9dp5qeH89UG+B/6KR9WT/CW06sHoZ3Zbw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-12T08:47:31.087Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="TM3O00bayGgUMqujgOuD" version="14.1.9" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="2272" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="td5Zy-zeOnTorkV1JDV5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="520" width="740" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="td5Zy-zeOnTorkV1JDV5-7" value="" style="endArrow=none;html=1;fontColor=#143642;exitX=-0.002;exitY=0.133;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.995;entryY=0.137;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e51400;shadow=0;opacity=80;strokeColor=none;" edge="1" parent="1" source="td5Zy-zeOnTorkV1JDV5-21" target="td5Zy-zeOnTorkV1JDV5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="790" as="sourcePoint" />
+            <mxPoint x="130" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="td5Zy-zeOnTorkV1JDV5-11" value="电话接入" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="td5Zy-zeOnTorkV1JDV5-12" value="IM接入" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="td5Zy-zeOnTorkV1JDV5-14" value="网络语音接入" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="td5Zy-zeOnTorkV1JDV5-18" value="Web接入" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="td5Zy-zeOnTorkV1JDV5-19" value="图像接入" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="td5Zy-zeOnTorkV1JDV5-21" value="视频接入" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="td5Zy-zeOnTorkV1JDV5-22" value="" style="endArrow=none;html=1;fontColor=#143642;exitX=-0.002;exitY=0.133;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.995;entryY=0.137;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e51400;shadow=0;opacity=80;strokeColor=none;" edge="1" parent="1" source="td5Zy-zeOnTorkV1JDV5-19" target="td5Zy-zeOnTorkV1JDV5-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="89.80000000000018" y="563.99" as="sourcePoint" />
+            <mxPoint x="316.4000000000001" y="588.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="td5Zy-zeOnTorkV1JDV5-25" value="多渠道接入中心" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
